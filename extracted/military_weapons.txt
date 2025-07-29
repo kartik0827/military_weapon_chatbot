@@ -1,0 +1,1891 @@
+Military Weapons Dataset
+ID: 1
+Name: BrahMos Mk4 Mod8
+Type: Missiles
+Country: India
+Range (km): 793
+Introduced: 1963
+Description: BrahMos Mk4 Mod8 is a missiles developed by India and introduced in 1963. It has an operational range of
+approximately 793 km.
+--------------------------------------------------
+ID: 2
+Name: UH-60 Black Hawk Mk3 Mod2
+Type: Helicopters
+Country: France
+Range (km): 1263
+Introduced: 2011
+Description: UH-60 Black Hawk Mk3 Mod2 is a helicopters developed by France and introduced in 2011. It has an
+operational range of approximately 1263 km.
+--------------------------------------------------
+ID: 3
+Name: Challenger 2 Mk4 Mod5
+Type: Tanks
+Country: Turkey
+Range (km): 400
+Introduced: 2013
+Description: Challenger 2 Mk4 Mod5 is a tanks developed by Turkey and introduced in 2013. It has an operational range
+of approximately 400 km.
+--------------------------------------------------
+ID: 4
+Name: MQ-9 Reaper Mk2 Mod3
+Type: Drones
+Country: USA
+Range (km): 394
+Introduced: 1974
+Description: MQ-9 Reaper Mk2 Mod3 is a drones developed by USA and introduced in 1974. It has an operational range
+of approximately 394 km.
+--------------------------------------------------
+ID: 5
+Name: BrahMos Mk1 Mod2
+Type: Missiles
+Country: UK
+Range (km): 550
+Introduced: 2020
+Description: BrahMos Mk1 Mod2 is a missiles developed by UK and introduced in 2020. It has an operational range of
+approximately 550 km.
+--------------------------------------------------
+ID: 6
+Name: Mi-24 Mk2 Mod7
+Type: Helicopters
+Country: UK
+Range (km): 1205
+Introduced: 1993
+Description: Mi-24 Mk2 Mod7 is a helicopters developed by UK and introduced in 1993. It has an operational range of
+approximately 1205 km.
+--------------------------------------------------
+ID: 7
+Name: Su-57 Mk4 Mod2
+Type: Jets
+Country: India
+Range (km): 4765
+Introduced: 1973
+Description: Su-57 Mk4 Mod2 is a jets developed by India and introduced in 1973. It has an operational range of
+approximately 4765 km.
+--------------------------------------------------
+ID: 8
+Name: M1911 Mk4 Mod4
+Type: Guns
+Country: India
+Range (km): 175
+Introduced: 1972
+Description: M1911 Mk4 Mod4 is a guns developed by India and introduced in 1972. It has an operational range of
+approximately 175 km.
+--------------------------------------------------
+ID: 9
+Name: M16 Mk5 Mod1
+Type: Rifles
+Country: Turkey
+Range (km): 908
+Introduced: 1996
+Description: M16 Mk5 Mod1 is a rifles developed by Turkey and introduced in 1996. It has an operational range of
+approximately 908 km.
+--------------------------------------------------
+ID: 10
+Name: MQ-9 Reaper Mk1 Mod2
+Type: Drones
+Country: USA
+Range (km): 1371
+Introduced: 2012
+Description: MQ-9 Reaper Mk1 Mod2 is a drones developed by USA and introduced in 2012. It has an operational range
+of approximately 1371 km.
+--------------------------------------------------
+ID: 11
+Name: Heron Mk3 Mod2
+Type: Drones
+Country: USA
+Range (km): 455
+Introduced: 2011
+Description: Heron Mk3 Mod2 is a drones developed by USA and introduced in 2011. It has an operational range of
+approximately 455 km.
+--------------------------------------------------
+ID: 12
+Name: BrahMos Mk4 Mod6
+Type: Missiles
+Country: UK
+Range (km): 534
+Introduced: 1966
+Description: BrahMos Mk4 Mod6 is a missiles developed by UK and introduced in 1966. It has an operational range of
+approximately 534 km.
+--------------------------------------------------
+ID: 13
+Name: Steyr AUG Mk3 Mod3
+Type: Rifles
+Country: Germany
+Range (km): 1334
+Introduced: 1987
+Description: Steyr AUG Mk3 Mod3 is a rifles developed by Germany and introduced in 1987. It has an operational range
+of approximately 1334 km.
+--------------------------------------------------
+ID: 14
+Name: Patriot Mk4 Mod0
+Type: Missiles
+Country: France
+Range (km): 155
+Introduced: 2023
+Description: Patriot Mk4 Mod0 is a missiles developed by France and introduced in 2023. It has an operational range of
+approximately 155 km.
+--------------------------------------------------
+ID: 15
+Name: AH-64 Apache Mk2 Mod3
+Type: Helicopters
+Country: India
+Range (km): 537
+Introduced: 2023
+Description: AH-64 Apache Mk2 Mod3 is a helicopters developed by India and introduced in 2023. It has an operational
+range of approximately 537 km.
+--------------------------------------------------
+ID: 16
+Name: Bayraktar TB2 Mk1 Mod5
+Type: Drones
+Country: Russia
+Range (km): 531
+Introduced: 2017
+Description: Bayraktar TB2 Mk1 Mod5 is a drones developed by Russia and introduced in 2017. It has an operational
+range of approximately 531 km.
+--------------------------------------------------
+ID: 17
+Name: M1 Abrams Mk5 Mod3
+Type: Tanks
+Country: France
+Range (km): 1251
+Introduced: 2004
+Description: M1 Abrams Mk5 Mod3 is a tanks developed by France and introduced in 2004. It has an operational range
+of approximately 1251 km.
+--------------------------------------------------
+ID: 18
+Name: F-22 Raptor Mk2 Mod9
+Type: Jets
+Country: UK
+Range (km): 3613
+Introduced: 2007
+Description: F-22 Raptor Mk2 Mod9 is a jets developed by UK and introduced in 2007. It has an operational range of
+approximately 3613 km.
+--------------------------------------------------
+ID: 19
+Name: FAMAS Mk3 Mod1
+Type: Rifles
+Country: Russia
+Range (km): 1081
+Introduced: 2018
+Description: FAMAS Mk3 Mod1 is a rifles developed by Russia and introduced in 2018. It has an operational range of
+approximately 1081 km.
+--------------------------------------------------
+ID: 20
+Name: Rafale Mk3 Mod2
+Type: Jets
+Country: China
+Range (km): 2895
+Introduced: 1990
+Description: Rafale Mk3 Mod2 is a jets developed by China and introduced in 1990. It has an operational range of
+approximately 2895 km.
+--------------------------------------------------
+ID: 21
+Name: F-22 Raptor Mk3 Mod9
+Type: Jets
+Country: India
+Range (km): 2674
+Introduced: 2022
+Description: F-22 Raptor Mk3 Mod9 is a jets developed by India and introduced in 2022. It has an operational range of
+approximately 2674 km.
+--------------------------------------------------
+ID: 22
+Name: Tomahawk Mk1 Mod9
+Type: Missiles
+Country: China
+Range (km): 66
+Introduced: 2008
+Description: Tomahawk Mk1 Mod9 is a missiles developed by China and introduced in 2008. It has an operational range
+of approximately 66 km.
+--------------------------------------------------
+ID: 23
+Name: Leopard 2 Mk4 Mod1
+Type: Tanks
+Country: Sweden
+Range (km): 337
+Introduced: 2009
+Description: Leopard 2 Mk4 Mod1 is a tanks developed by Sweden and introduced in 2009. It has an operational range
+of approximately 337 km.
+--------------------------------------------------
+ID: 24
+Name: Su-57 Mk3 Mod5
+Type: Jets
+Country: France
+Range (km): 3906
+Introduced: 1986
+Description: Su-57 Mk3 Mod5 is a jets developed by France and introduced in 1986. It has an operational range of
+approximately 3906 km.
+--------------------------------------------------
+ID: 25
+Name: Su-57 Mk4 Mod5
+Type: Jets
+Country: Israel
+Range (km): 4083
+Introduced: 2008
+Description: Su-57 Mk4 Mod5 is a jets developed by Israel and introduced in 2008. It has an operational range of
+approximately 4083 km.
+--------------------------------------------------
+ID: 26
+Name: Hellfire Mk5 Mod7
+Type: Missiles
+Country: USA
+Range (km): 647
+Introduced: 2015
+Description: Hellfire Mk5 Mod7 is a missiles developed by USA and introduced in 2015. It has an operational range of
+approximately 647 km.
+--------------------------------------------------
+ID: 27
+Name: AK-47 Mk5 Mod7
+Type: Rifles
+Country: Russia
+Range (km): 772
+Introduced: 2020
+Description: AK-47 Mk5 Mod7 is a rifles developed by Russia and introduced in 2020. It has an operational range of
+approximately 772 km.
+--------------------------------------------------
+ID: 28
+Name: Beretta M9 Mk1 Mod4
+Type: Guns
+Country: France
+Range (km): 423
+Introduced: 1980
+Description: Beretta M9 Mk1 Mod4 is a guns developed by France and introduced in 1980. It has an operational range
+of approximately 423 km.
+--------------------------------------------------
+ID: 29
+Name: Glock 17 Mk5 Mod9
+Type: Guns
+Country: Russia
+Range (km): 1135
+Introduced: 2001
+Description: Glock 17 Mk5 Mod9 is a guns developed by Russia and introduced in 2001. It has an operational range of
+approximately 1135 km.
+--------------------------------------------------
+ID: 30
+Name: Challenger 2 Mk1 Mod4
+Type: Tanks
+Country: Sweden
+Range (km): 612
+Introduced: 1986
+Description: Challenger 2 Mk1 Mod4 is a tanks developed by Sweden and introduced in 1986. It has an operational
+range of approximately 612 km.
+--------------------------------------------------
+ID: 31
+Name: UH-60 Black Hawk Mk2 Mod3
+Type: Helicopters
+Country: USA
+Range (km): 1081
+Introduced: 1963
+Description: UH-60 Black Hawk Mk2 Mod3 is a helicopters developed by USA and introduced in 1963. It has an
+operational range of approximately 1081 km.
+--------------------------------------------------
+ID: 32
+Name: Desert Eagle Mk4 Mod4
+Type: Guns
+Country: India
+Range (km): 1141
+Introduced: 1974
+Description: Desert Eagle Mk4 Mod4 is a guns developed by India and introduced in 1974. It has an operational range of
+approximately 1141 km.
+--------------------------------------------------
+ID: 33
+Name: Beretta M9 Mk3 Mod3
+Type: Guns
+Country: Russia
+Range (km): 1098
+Introduced: 1999
+Description: Beretta M9 Mk3 Mod3 is a guns developed by Russia and introduced in 1999. It has an operational range of
+approximately 1098 km.
+--------------------------------------------------
+ID: 34
+Name: Mi-24 Mk4 Mod3
+Type: Helicopters
+Country: India
+Range (km): 243
+Introduced: 1965
+Description: Mi-24 Mk4 Mod3 is a helicopters developed by India and introduced in 1965. It has an operational range of
+approximately 243 km.
+--------------------------------------------------
+ID: 35
+Name: Su-57 Mk4 Mod1
+Type: Jets
+Country: USA
+Range (km): 3741
+Introduced: 2010
+Description: Su-57 Mk4 Mod1 is a jets developed by USA and introduced in 2010. It has an operational range of
+approximately 3741 km.
+--------------------------------------------------
+ID: 36
+Name: Mi-24 Mk2 Mod5
+Type: Helicopters
+Country: Germany
+Range (km): 594
+Introduced: 1985
+Description: Mi-24 Mk2 Mod5 is a helicopters developed by Germany and introduced in 1985. It has an operational
+range of approximately 594 km.
+--------------------------------------------------
+ID: 37
+Name: M1 Abrams Mk1 Mod2
+Type: Tanks
+Country: Germany
+Range (km): 524
+Introduced: 2004
+Description: M1 Abrams Mk1 Mod2 is a tanks developed by Germany and introduced in 2004. It has an operational
+range of approximately 524 km.
+--------------------------------------------------
+ID: 38
+Name: M1911 Mk3 Mod6
+Type: Guns
+Country: Germany
+Range (km): 192
+Introduced: 2011
+Description: M1911 Mk3 Mod6 is a guns developed by Germany and introduced in 2011. It has an operational range of
+approximately 192 km.
+--------------------------------------------------
+ID: 39
+Name: Challenger 2 Mk5 Mod7
+Type: Tanks
+Country: Turkey
+Range (km): 1453
+Introduced: 2010
+Description: Challenger 2 Mk5 Mod7 is a tanks developed by Turkey and introduced in 2010. It has an operational range
+of approximately 1453 km.
+--------------------------------------------------
+ID: 40
+Name: Rafale Mk3 Mod9
+Type: Jets
+Country: UK
+Range (km): 4212
+Introduced: 2018
+Description: Rafale Mk3 Mod9 is a jets developed by UK and introduced in 2018. It has an operational range of
+approximately 4212 km.
+--------------------------------------------------
+ID: 41
+Name: Ka-52 Mk4 Mod1
+Type: Helicopters
+Country: Sweden
+Range (km): 1066
+Introduced: 1994
+Description: Ka-52 Mk4 Mod1 is a helicopters developed by Sweden and introduced in 1994. It has an operational range
+of approximately 1066 km.
+--------------------------------------------------
+ID: 42
+Name: F-22 Raptor Mk3 Mod5
+Type: Jets
+Country: Turkey
+Range (km): 2713
+Introduced: 1988
+Description: F-22 Raptor Mk3 Mod5 is a jets developed by Turkey and introduced in 1988. It has an operational range of
+approximately 2713 km.
+--------------------------------------------------
+ID: 43
+Name: Desert Eagle Mk3 Mod1
+Type: Guns
+Country: France
+Range (km): 1123
+Introduced: 1986
+Description: Desert Eagle Mk3 Mod1 is a guns developed by France and introduced in 1986. It has an operational range
+of approximately 1123 km.
+--------------------------------------------------
+ID: 44
+Name: FAMAS Mk5 Mod6
+Type: Rifles
+Country: USA
+Range (km): 317
+Introduced: 1969
+Description: FAMAS Mk5 Mod6 is a rifles developed by USA and introduced in 1969. It has an operational range of
+approximately 317 km.
+--------------------------------------------------
+ID: 45
+Name: T-90 Mk1 Mod1
+Type: Tanks
+Country: Turkey
+Range (km): 1092
+Introduced: 2017
+Description: T-90 Mk1 Mod1 is a tanks developed by Turkey and introduced in 2017. It has an operational range of
+approximately 1092 km.
+--------------------------------------------------
+ID: 46
+Name: UH-60 Black Hawk Mk3 Mod6
+Type: Helicopters
+Country: Russia
+Range (km): 1453
+Introduced: 2018
+Description: UH-60 Black Hawk Mk3 Mod6 is a helicopters developed by Russia and introduced in 2018. It has an
+operational range of approximately 1453 km.
+--------------------------------------------------
+ID: 47
+Name: Glock 17 Mk2 Mod2
+Type: Guns
+Country: India
+Range (km): 638
+Introduced: 1983
+Description: Glock 17 Mk2 Mod2 is a guns developed by India and introduced in 1983. It has an operational range of
+approximately 638 km.
+--------------------------------------------------
+ID: 48
+Name: Challenger 2 Mk1 Mod7
+Type: Tanks
+Country: Russia
+Range (km): 67
+Introduced: 1975
+Description: Challenger 2 Mk1 Mod7 is a tanks developed by Russia and introduced in 1975. It has an operational range
+of approximately 67 km.
+--------------------------------------------------
+ID: 49
+Name: M1911 Mk2 Mod3
+Type: Guns
+Country: Israel
+Range (km): 1068
+Introduced: 1997
+Description: M1911 Mk2 Mod3 is a guns developed by Israel and introduced in 1997. It has an operational range of
+approximately 1068 km.
+--------------------------------------------------
+ID: 50
+Name: Leopard 2 Mk3 Mod8
+Type: Tanks
+Country: Germany
+Range (km): 336
+Introduced: 1995
+Description: Leopard 2 Mk3 Mod8 is a tanks developed by Germany and introduced in 1995. It has an operational range
+of approximately 336 km.
+--------------------------------------------------
+ID: 51
+Name: AK-47 Mk3 Mod1
+Type: Rifles
+Country: India
+Range (km): 232
+Introduced: 1966
+Description: AK-47 Mk3 Mod1 is a rifles developed by India and introduced in 1966. It has an operational range of
+approximately 232 km.
+--------------------------------------------------
+ID: 52
+Name: Rafale Mk5 Mod1
+Type: Jets
+Country: UK
+Range (km): 2371
+Introduced: 1987
+Description: Rafale Mk5 Mod1 is a jets developed by UK and introduced in 1987. It has an operational range of
+approximately 2371 km.
+--------------------------------------------------
+ID: 53
+Name: UH-60 Black Hawk Mk2 Mod9
+Type: Helicopters
+Country: India
+Range (km): 63
+Introduced: 1987
+Description: UH-60 Black Hawk Mk2 Mod9 is a helicopters developed by India and introduced in 1987. It has an
+operational range of approximately 63 km.
+--------------------------------------------------
+ID: 54
+Name: FAMAS Mk5 Mod3
+Type: Rifles
+Country: China
+Range (km): 1151
+Introduced: 2010
+Description: FAMAS Mk5 Mod3 is a rifles developed by China and introduced in 2010. It has an operational range of
+approximately 1151 km.
+--------------------------------------------------
+ID: 55
+Name: Wing Loong Mk1 Mod5
+Type: Drones
+Country: Turkey
+Range (km): 630
+Introduced: 2018
+Description: Wing Loong Mk1 Mod5 is a drones developed by Turkey and introduced in 2018. It has an operational
+range of approximately 630 km.
+--------------------------------------------------
+ID: 56
+Name: FAMAS Mk4 Mod5
+Type: Rifles
+Country: Sweden
+Range (km): 352
+Introduced: 1985
+Description: FAMAS Mk4 Mod5 is a rifles developed by Sweden and introduced in 1985. It has an operational range of
+approximately 352 km.
+--------------------------------------------------
+ID: 57
+Name: Desert Eagle Mk2 Mod9
+Type: Guns
+Country: USA
+Range (km): 1495
+Introduced: 1987
+Description: Desert Eagle Mk2 Mod9 is a guns developed by USA and introduced in 1987. It has an operational range of
+approximately 1495 km.
+--------------------------------------------------
+ID: 58
+Name: Patriot Mk1 Mod6
+Type: Missiles
+Country: Sweden
+Range (km): 555
+Introduced: 1984
+Description: Patriot Mk1 Mod6 is a missiles developed by Sweden and introduced in 1984. It has an operational range of
+approximately 555 km.
+--------------------------------------------------
+ID: 59
+Name: M1 Abrams Mk4 Mod6
+Type: Tanks
+Country: UK
+Range (km): 283
+Introduced: 2012
+Description: M1 Abrams Mk4 Mod6 is a tanks developed by UK and introduced in 2012. It has an operational range of
+approximately 283 km.
+--------------------------------------------------
+ID: 60
+Name: Hellfire Mk5 Mod9
+Type: Missiles
+Country: Russia
+Range (km): 589
+Introduced: 1995
+Description: Hellfire Mk5 Mod9 is a missiles developed by Russia and introduced in 1995. It has an operational range of
+approximately 589 km.
+--------------------------------------------------
+ID: 61
+Name: Bayraktar TB2 Mk1 Mod5
+Type: Drones
+Country: USA
+Range (km): 829
+Introduced: 1969
+Description: Bayraktar TB2 Mk1 Mod5 is a drones developed by USA and introduced in 1969. It has an operational
+range of approximately 829 km.
+--------------------------------------------------
+ID: 62
+Name: Glock 17 Mk5 Mod9
+Type: Guns
+Country: China
+Range (km): 453
+Introduced: 1977
+Description: Glock 17 Mk5 Mod9 is a guns developed by China and introduced in 1977. It has an operational range of
+approximately 453 km.
+--------------------------------------------------
+ID: 63
+Name: M1 Abrams Mk5 Mod0
+Type: Tanks
+Country: USA
+Range (km): 716
+Introduced: 2018
+Description: M1 Abrams Mk5 Mod0 is a tanks developed by USA and introduced in 2018. It has an operational range of
+approximately 716 km.
+--------------------------------------------------
+ID: 64
+Name: MQ-9 Reaper Mk2 Mod2
+Type: Drones
+Country: Russia
+Range (km): 941
+Introduced: 1975
+Description: MQ-9 Reaper Mk2 Mod2 is a drones developed by Russia and introduced in 1975. It has an operational
+range of approximately 941 km.
+--------------------------------------------------
+ID: 65
+Name: FAMAS Mk2 Mod6
+Type: Rifles
+Country: Russia
+Range (km): 302
+Introduced: 1970
+Description: FAMAS Mk2 Mod6 is a rifles developed by Russia and introduced in 1970. It has an operational range of
+approximately 302 km.
+--------------------------------------------------
+ID: 66
+Name: Hellfire Mk1 Mod5
+Type: Missiles
+Country: UK
+Range (km): 520
+Introduced: 2005
+Description: Hellfire Mk1 Mod5 is a missiles developed by UK and introduced in 2005. It has an operational range of
+approximately 520 km.
+--------------------------------------------------
+ID: 67
+Name: Wing Loong Mk1 Mod0
+Type: Drones
+Country: France
+Range (km): 268
+Introduced: 1996
+Description: Wing Loong Mk1 Mod0 is a drones developed by France and introduced in 1996. It has an operational
+range of approximately 268 km.
+--------------------------------------------------
+ID: 68
+Name: M16 Mk4 Mod5
+Type: Rifles
+Country: Germany
+Range (km): 451
+Introduced: 2022
+Description: M16 Mk4 Mod5 is a rifles developed by Germany and introduced in 2022. It has an operational range of
+approximately 451 km.
+--------------------------------------------------
+ID: 69
+Name: AK-47 Mk1 Mod6
+Type: Rifles
+Country: Sweden
+Range (km): 1428
+Introduced: 1993
+Description: AK-47 Mk1 Mod6 is a rifles developed by Sweden and introduced in 1993. It has an operational range of
+approximately 1428 km.
+--------------------------------------------------
+ID: 70
+Name: T-90 Mk4 Mod8
+Type: Tanks
+Country: UK
+Range (km): 555
+Introduced: 2003
+Description: T-90 Mk4 Mod8 is a tanks developed by UK and introduced in 2003. It has an operational range of
+approximately 555 km.
+--------------------------------------------------
+ID: 71
+Name: UH-60 Black Hawk Mk1 Mod0
+Type: Helicopters
+Country: Russia
+Range (km): 1035
+Introduced: 1992
+Description: UH-60 Black Hawk Mk1 Mod0 is a helicopters developed by Russia and introduced in 1992. It has an
+operational range of approximately 1035 km.
+--------------------------------------------------
+ID: 72
+Name: Desert Eagle Mk2 Mod9
+Type: Guns
+Country: Israel
+Range (km): 917
+Introduced: 1991
+Description: Desert Eagle Mk2 Mod9 is a guns developed by Israel and introduced in 1991. It has an operational range
+of approximately 917 km.
+--------------------------------------------------
+ID: 73
+Name: Mi-24 Mk3 Mod7
+Type: Helicopters
+Country: Russia
+Range (km): 1161
+Introduced: 2000
+Description: Mi-24 Mk3 Mod7 is a helicopters developed by Russia and introduced in 2000. It has an operational range
+of approximately 1161 km.
+--------------------------------------------------
+ID: 74
+Name: Wing Loong Mk1 Mod6
+Type: Drones
+Country: China
+Range (km): 823
+Introduced: 1988
+Description: Wing Loong Mk1 Mod6 is a drones developed by China and introduced in 1988. It has an operational range
+of approximately 823 km.
+--------------------------------------------------
+ID: 75
+Name: Su-57 Mk4 Mod2
+Type: Jets
+Country: Germany
+Range (km): 3858
+Introduced: 1997
+Description: Su-57 Mk4 Mod2 is a jets developed by Germany and introduced in 1997. It has an operational range of
+approximately 3858 km.
+--------------------------------------------------
+ID: 76
+Name: UH-60 Black Hawk Mk3 Mod3
+Type: Helicopters
+Country: Russia
+Range (km): 105
+Introduced: 1995
+Description: UH-60 Black Hawk Mk3 Mod3 is a helicopters developed by Russia and introduced in 1995. It has an
+operational range of approximately 105 km.
+--------------------------------------------------
+ID: 77
+Name: Mi-24 Mk4 Mod9
+Type: Helicopters
+Country: France
+Range (km): 255
+Introduced: 2013
+Description: Mi-24 Mk4 Mod9 is a helicopters developed by France and introduced in 2013. It has an operational range
+of approximately 255 km.
+--------------------------------------------------
+ID: 78
+Name: Heron Mk1 Mod3
+Type: Drones
+Country: France
+Range (km): 467
+Introduced: 1961
+Description: Heron Mk1 Mod3 is a drones developed by France and introduced in 1961. It has an operational range of
+approximately 467 km.
+--------------------------------------------------
+ID: 79
+Name: Patriot Mk1 Mod4
+Type: Missiles
+Country: China
+Range (km): 1155
+Introduced: 2002
+Description: Patriot Mk1 Mod4 is a missiles developed by China and introduced in 2002. It has an operational range of
+approximately 1155 km.
+--------------------------------------------------
+ID: 80
+Name: Rafale Mk2 Mod5
+Type: Jets
+Country: Germany
+Range (km): 2114
+Introduced: 2001
+Description: Rafale Mk2 Mod5 is a jets developed by Germany and introduced in 2001. It has an operational range of
+approximately 2114 km.
+--------------------------------------------------
+ID: 81
+Name: M1911 Mk2 Mod7
+Type: Guns
+Country: India
+Range (km): 1099
+Introduced: 2014
+Description: M1911 Mk2 Mod7 is a guns developed by India and introduced in 2014. It has an operational range of
+approximately 1099 km.
+--------------------------------------------------
+ID: 82
+Name: M1 Abrams Mk4 Mod1
+Type: Tanks
+Country: France
+Range (km): 883
+Introduced: 2015
+Description: M1 Abrams Mk4 Mod1 is a tanks developed by France and introduced in 2015. It has an operational range
+of approximately 883 km.
+--------------------------------------------------
+ID: 83
+Name: MQ-9 Reaper Mk1 Mod5
+Type: Drones
+Country: Israel
+Range (km): 4
+Introduced: 1971
+Description: MQ-9 Reaper Mk1 Mod5 is a drones developed by Israel and introduced in 1971. It has an operational
+range of approximately 4 km.
+--------------------------------------------------
+ID: 84
+Name: AK-47 Mk5 Mod4
+Type: Rifles
+Country: Russia
+Range (km): 1063
+Introduced: 2018
+Description: AK-47 Mk5 Mod4 is a rifles developed by Russia and introduced in 2018. It has an operational range of
+approximately 1063 km.
+--------------------------------------------------
+ID: 85
+Name: Desert Eagle Mk2 Mod7
+Type: Guns
+Country: Russia
+Range (km): 1395
+Introduced: 1970
+Description: Desert Eagle Mk2 Mod7 is a guns developed by Russia and introduced in 1970. It has an operational range
+of approximately 1395 km.
+--------------------------------------------------
+ID: 86
+Name: FAMAS Mk1 Mod9
+Type: Rifles
+Country: Russia
+Range (km): 400
+Introduced: 2009
+Description: FAMAS Mk1 Mod9 is a rifles developed by Russia and introduced in 2009. It has an operational range of
+approximately 400 km.
+--------------------------------------------------
+ID: 87
+Name: BrahMos Mk1 Mod1
+Type: Missiles
+Country: Sweden
+Range (km): 1290
+Introduced: 1972
+Description: BrahMos Mk1 Mod1 is a missiles developed by Sweden and introduced in 1972. It has an operational range
+of approximately 1290 km.
+--------------------------------------------------
+ID: 88
+Name: Bayraktar TB2 Mk4 Mod6
+Type: Drones
+Country: India
+Range (km): 636
+Introduced: 1998
+Description: Bayraktar TB2 Mk4 Mod6 is a drones developed by India and introduced in 1998. It has an operational
+range of approximately 636 km.
+--------------------------------------------------
+ID: 89
+Name: Hellfire Mk5 Mod2
+Type: Missiles
+Country: India
+Range (km): 479
+Introduced: 2021
+Description: Hellfire Mk5 Mod2 is a missiles developed by India and introduced in 2021. It has an operational range of
+approximately 479 km.
+--------------------------------------------------
+ID: 90
+Name: T-90 Mk2 Mod3
+Type: Tanks
+Country: Israel
+Range (km): 816
+Introduced: 1966
+Description: T-90 Mk2 Mod3 is a tanks developed by Israel and introduced in 1966. It has an operational range of
+approximately 816 km.
+--------------------------------------------------
+ID: 91
+Name: Challenger 2 Mk3 Mod6
+Type: Tanks
+Country: Sweden
+Range (km): 1104
+Introduced: 1993
+Description: Challenger 2 Mk3 Mod6 is a tanks developed by Sweden and introduced in 1993. It has an operational
+range of approximately 1104 km.
+--------------------------------------------------
+ID: 92
+Name: JAS 39 Gripen Mk4 Mod8
+Type: Jets
+Country: Sweden
+Range (km): 3386
+Introduced: 1999
+Description: JAS 39 Gripen Mk4 Mod8 is a jets developed by Sweden and introduced in 1999. It has an operational
+range of approximately 3386 km.
+--------------------------------------------------
+ID: 93
+Name: Patriot Mk2 Mod8
+Type: Missiles
+Country: Germany
+Range (km): 306
+Introduced: 1974
+Description: Patriot Mk2 Mod8 is a missiles developed by Germany and introduced in 1974. It has an operational range
+of approximately 306 km.
+--------------------------------------------------
+ID: 94
+Name: FAMAS Mk3 Mod8
+Type: Rifles
+Country: France
+Range (km): 883
+Introduced: 1998
+Description: FAMAS Mk3 Mod8 is a rifles developed by France and introduced in 1998. It has an operational range of
+approximately 883 km.
+--------------------------------------------------
+ID: 95
+Name: F-22 Raptor Mk4 Mod0
+Type: Jets
+Country: Russia
+Range (km): 3201
+Introduced: 2004
+Description: F-22 Raptor Mk4 Mod0 is a jets developed by Russia and introduced in 2004. It has an operational range of
+approximately 3201 km.
+--------------------------------------------------
+ID: 96
+Name: Heron Mk1 Mod0
+Type: Drones
+Country: France
+Range (km): 177
+Introduced: 2012
+Description: Heron Mk1 Mod0 is a drones developed by France and introduced in 2012. It has an operational range of
+approximately 177 km.
+--------------------------------------------------
+ID: 97
+Name: Glock 17 Mk1 Mod2
+Type: Guns
+Country: Germany
+Range (km): 1445
+Introduced: 1987
+Description: Glock 17 Mk1 Mod2 is a guns developed by Germany and introduced in 1987. It has an operational range
+of approximately 1445 km.
+--------------------------------------------------
+ID: 98
+Name: BrahMos Mk1 Mod2
+Type: Missiles
+Country: UK
+Range (km): 677
+Introduced: 2008
+Description: BrahMos Mk1 Mod2 is a missiles developed by UK and introduced in 2008. It has an operational range of
+approximately 677 km.
+--------------------------------------------------
+ID: 99
+Name: Leopard 2 Mk1 Mod5
+Type: Tanks
+Country: Israel
+Range (km): 248
+Introduced: 1987
+Description: Leopard 2 Mk1 Mod5 is a tanks developed by Israel and introduced in 1987. It has an operational range of
+approximately 248 km.
+--------------------------------------------------
+ID: 100
+Name: AH-64 Apache Mk1 Mod5
+Type: Helicopters
+Country: UK
+Range (km): 115
+Introduced: 1966
+Description: AH-64 Apache Mk1 Mod5 is a helicopters developed by UK and introduced in 1966. It has an operational
+range of approximately 115 km.
+--------------------------------------------------
+ID: 101
+Name: Steyr AUG Mk3 Mod7
+Type: Rifles
+Country: Turkey
+Range (km): 264
+Introduced: 1983
+Description: Steyr AUG Mk3 Mod7 is a rifles developed by Turkey and introduced in 1983. It has an operational range of
+approximately 264 km.
+--------------------------------------------------
+ID: 102
+Name: Patriot Mk5 Mod5
+Type: Missiles
+Country: Russia
+Range (km): 1273
+Introduced: 1983
+Description: Patriot Mk5 Mod5 is a missiles developed by Russia and introduced in 1983. It has an operational range of
+approximately 1273 km.
+--------------------------------------------------
+ID: 103
+Name: Hellfire Mk3 Mod5
+Type: Missiles
+Country: Russia
+Range (km): 794
+Introduced: 2012
+Description: Hellfire Mk3 Mod5 is a missiles developed by Russia and introduced in 2012. It has an operational range of
+approximately 794 km.
+--------------------------------------------------
+ID: 104
+Name: JAS 39 Gripen Mk3 Mod4
+Type: Jets
+Country: India
+Range (km): 4593
+Introduced: 1990
+Description: JAS 39 Gripen Mk3 Mod4 is a jets developed by India and introduced in 1990. It has an operational range
+of approximately 4593 km.
+--------------------------------------------------
+ID: 105
+Name: BrahMos Mk5 Mod2
+Type: Missiles
+Country: Germany
+Range (km): 622
+Introduced: 2019
+Description: BrahMos Mk5 Mod2 is a missiles developed by Germany and introduced in 2019. It has an operational
+range of approximately 622 km.
+--------------------------------------------------
+ID: 106
+Name: Glock 17 Mk5 Mod6
+Type: Guns
+Country: China
+Range (km): 1347
+Introduced: 2009
+Description: Glock 17 Mk5 Mod6 is a guns developed by China and introduced in 2009. It has an operational range of
+approximately 1347 km.
+--------------------------------------------------
+ID: 107
+Name: Tomahawk Mk1 Mod3
+Type: Missiles
+Country: China
+Range (km): 913
+Introduced: 1997
+Description: Tomahawk Mk1 Mod3 is a missiles developed by China and introduced in 1997. It has an operational range
+of approximately 913 km.
+--------------------------------------------------
+ID: 108
+Name: JAS 39 Gripen Mk1 Mod8
+Type: Jets
+Country: Russia
+Range (km): 2749
+Introduced: 2003
+Description: JAS 39 Gripen Mk1 Mod8 is a jets developed by Russia and introduced in 2003. It has an operational range
+of approximately 2749 km.
+--------------------------------------------------
+ID: 109
+Name: M1911 Mk2 Mod7
+Type: Guns
+Country: Russia
+Range (km): 481
+Introduced: 1981
+Description: M1911 Mk2 Mod7 is a guns developed by Russia and introduced in 1981. It has an operational range of
+approximately 481 km.
+--------------------------------------------------
+ID: 110
+Name: AH-64 Apache Mk4 Mod5
+Type: Helicopters
+Country: Israel
+Range (km): 474
+Introduced: 1968
+Description: AH-64 Apache Mk4 Mod5 is a helicopters developed by Israel and introduced in 1968. It has an operational
+range of approximately 474 km.
+--------------------------------------------------
+ID: 111
+Name: Ka-52 Mk4 Mod8
+Type: Helicopters
+Country: Germany
+Range (km): 1397
+Introduced: 2019
+Description: Ka-52 Mk4 Mod8 is a helicopters developed by Germany and introduced in 2019. It has an operational
+range of approximately 1397 km.
+--------------------------------------------------
+ID: 112
+Name: Hellfire Mk4 Mod9
+Type: Missiles
+Country: France
+Range (km): 1350
+Introduced: 2001
+Description: Hellfire Mk4 Mod9 is a missiles developed by France and introduced in 2001. It has an operational range of
+approximately 1350 km.
+--------------------------------------------------
+ID: 113
+Name: Beretta M9 Mk4 Mod6
+Type: Guns
+Country: Turkey
+Range (km): 1387
+Introduced: 1977
+Description: Beretta M9 Mk4 Mod6 is a guns developed by Turkey and introduced in 1977. It has an operational range of
+approximately 1387 km.
+--------------------------------------------------
+ID: 114
+Name: Challenger 2 Mk2 Mod8
+Type: Tanks
+Country: Turkey
+Range (km): 1484
+Introduced: 2008
+Description: Challenger 2 Mk2 Mod8 is a tanks developed by Turkey and introduced in 2008. It has an operational range
+of approximately 1484 km.
+--------------------------------------------------
+ID: 115
+Name: T-90 Mk4 Mod0
+Type: Tanks
+Country: China
+Range (km): 382
+Introduced: 1985
+Description: T-90 Mk4 Mod0 is a tanks developed by China and introduced in 1985. It has an operational range of
+approximately 382 km.
+--------------------------------------------------
+ID: 116
+Name: T-90 Mk5 Mod7
+Type: Tanks
+Country: France
+Range (km): 416
+Introduced: 1980
+Description: T-90 Mk5 Mod7 is a tanks developed by France and introduced in 1980. It has an operational range of
+approximately 416 km.
+--------------------------------------------------
+ID: 117
+Name: BrahMos Mk4 Mod0
+Type: Missiles
+Country: China
+Range (km): 752
+Introduced: 1991
+Description: BrahMos Mk4 Mod0 is a missiles developed by China and introduced in 1991. It has an operational range
+of approximately 752 km.
+--------------------------------------------------
+ID: 118
+Name: Steyr AUG Mk2 Mod2
+Type: Rifles
+Country: India
+Range (km): 834
+Introduced: 1984
+Description: Steyr AUG Mk2 Mod2 is a rifles developed by India and introduced in 1984. It has an operational range of
+approximately 834 km.
+--------------------------------------------------
+ID: 119
+Name: Steyr AUG Mk3 Mod3
+Type: Rifles
+Country: Sweden
+Range (km): 401
+Introduced: 2017
+Description: Steyr AUG Mk3 Mod3 is a rifles developed by Sweden and introduced in 2017. It has an operational range
+of approximately 401 km.
+--------------------------------------------------
+ID: 120
+Name: Patriot Mk4 Mod9
+Type: Missiles
+Country: France
+Range (km): 212
+Introduced: 1977
+Description: Patriot Mk4 Mod9 is a missiles developed by France and introduced in 1977. It has an operational range of
+approximately 212 km.
+--------------------------------------------------
+ID: 121
+Name: Su-57 Mk3 Mod2
+Type: Jets
+Country: USA
+Range (km): 2058
+Introduced: 2021
+Description: Su-57 Mk3 Mod2 is a jets developed by USA and introduced in 2021. It has an operational range of
+approximately 2058 km.
+--------------------------------------------------
+ID: 122
+Name: Beretta M9 Mk4 Mod4
+Type: Guns
+Country: UK
+Range (km): 325
+Introduced: 1964
+Description: Beretta M9 Mk4 Mod4 is a guns developed by UK and introduced in 1964. It has an operational range of
+approximately 325 km.
+--------------------------------------------------
+ID: 123
+Name: Challenger 2 Mk4 Mod2
+Type: Tanks
+Country: UK
+Range (km): 1045
+Introduced: 1993
+Description: Challenger 2 Mk4 Mod2 is a tanks developed by UK and introduced in 1993. It has an operational range of
+approximately 1045 km.
+--------------------------------------------------
+ID: 124
+Name: AH-64 Apache Mk5 Mod1
+Type: Helicopters
+Country: UK
+Range (km): 338
+Introduced: 1991
+Description: AH-64 Apache Mk5 Mod1 is a helicopters developed by UK and introduced in 1991. It has an operational
+range of approximately 338 km.
+--------------------------------------------------
+ID: 125
+Name: Leopard 2 Mk4 Mod2
+Type: Tanks
+Country: India
+Range (km): 1276
+Introduced: 2009
+Description: Leopard 2 Mk4 Mod2 is a tanks developed by India and introduced in 2009. It has an operational range of
+approximately 1276 km.
+--------------------------------------------------
+ID: 126
+Name: Beretta M9 Mk4 Mod1
+Type: Guns
+Country: USA
+Range (km): 920
+Introduced: 1987
+Description: Beretta M9 Mk4 Mod1 is a guns developed by USA and introduced in 1987. It has an operational range of
+approximately 920 km.
+--------------------------------------------------
+ID: 127
+Name: Tomahawk Mk2 Mod0
+Type: Missiles
+Country: India
+Range (km): 173
+Introduced: 1993
+Description: Tomahawk Mk2 Mod0 is a missiles developed by India and introduced in 1993. It has an operational range
+of approximately 173 km.
+--------------------------------------------------
+ID: 128
+Name: Rafale Mk1 Mod1
+Type: Jets
+Country: USA
+Range (km): 3104
+Introduced: 1971
+Description: Rafale Mk1 Mod1 is a jets developed by USA and introduced in 1971. It has an operational range of
+approximately 3104 km.
+--------------------------------------------------
+ID: 129
+Name: AH-64 Apache Mk4 Mod0
+Type: Helicopters
+Country: India
+Range (km): 204
+Introduced: 1983
+Description: AH-64 Apache Mk4 Mod0 is a helicopters developed by India and introduced in 1983. It has an operational
+range of approximately 204 km.
+--------------------------------------------------
+ID: 130
+Name: MQ-9 Reaper Mk2 Mod3
+Type: Drones
+Country: Israel
+Range (km): 149
+Introduced: 2009
+Description: MQ-9 Reaper Mk2 Mod3 is a drones developed by Israel and introduced in 2009. It has an operational
+range of approximately 149 km.
+--------------------------------------------------
+ID: 131
+Name: M16 Mk5 Mod4
+Type: Rifles
+Country: Germany
+Range (km): 914
+Introduced: 2009
+Description: M16 Mk5 Mod4 is a rifles developed by Germany and introduced in 2009. It has an operational range of
+approximately 914 km.
+--------------------------------------------------
+ID: 132
+Name: Rafale Mk2 Mod6
+Type: Jets
+Country: Israel
+Range (km): 2720
+Introduced: 2021
+Description: Rafale Mk2 Mod6 is a jets developed by Israel and introduced in 2021. It has an operational range of
+approximately 2720 km.
+--------------------------------------------------
+ID: 133
+Name: Challenger 2 Mk1 Mod6
+Type: Tanks
+Country: Israel
+Range (km): 889
+Introduced: 2011
+Description: Challenger 2 Mk1 Mod6 is a tanks developed by Israel and introduced in 2011. It has an operational range
+of approximately 889 km.
+--------------------------------------------------
+ID: 134
+Name: AH-64 Apache Mk5 Mod0
+Type: Helicopters
+Country: Israel
+Range (km): 304
+Introduced: 1984
+Description: AH-64 Apache Mk5 Mod0 is a helicopters developed by Israel and introduced in 1984. It has an operational
+range of approximately 304 km.
+--------------------------------------------------
+ID: 135
+Name: Steyr AUG Mk5 Mod7
+Type: Rifles
+Country: Germany
+Range (km): 1309
+Introduced: 2010
+Description: Steyr AUG Mk5 Mod7 is a rifles developed by Germany and introduced in 2010. It has an operational range
+of approximately 1309 km.
+--------------------------------------------------
+ID: 136
+Name: Glock 17 Mk5 Mod2
+Type: Guns
+Country: Turkey
+Range (km): 615
+Introduced: 2020
+Description: Glock 17 Mk5 Mod2 is a guns developed by Turkey and introduced in 2020. It has an operational range of
+approximately 615 km.
+--------------------------------------------------
+ID: 137
+Name: MQ-9 Reaper Mk1 Mod3
+Type: Drones
+Country: Turkey
+Range (km): 699
+Introduced: 1981
+Description: MQ-9 Reaper Mk1 Mod3 is a drones developed by Turkey and introduced in 1981. It has an operational
+range of approximately 699 km.
+--------------------------------------------------
+ID: 138
+Name: Bayraktar TB2 Mk3 Mod4
+Type: Drones
+Country: Sweden
+Range (km): 764
+Introduced: 1967
+Description: Bayraktar TB2 Mk3 Mod4 is a drones developed by Sweden and introduced in 1967. It has an operational
+range of approximately 764 km.
+--------------------------------------------------
+ID: 139
+Name: Hellfire Mk1 Mod4
+Type: Missiles
+Country: China
+Range (km): 606
+Introduced: 1978
+Description: Hellfire Mk1 Mod4 is a missiles developed by China and introduced in 1978. It has an operational range of
+approximately 606 km.
+--------------------------------------------------
+ID: 140
+Name: MQ-9 Reaper Mk2 Mod4
+Type: Drones
+Country: India
+Range (km): 487
+Introduced: 1993
+Description: MQ-9 Reaper Mk2 Mod4 is a drones developed by India and introduced in 1993. It has an operational
+range of approximately 487 km.
+--------------------------------------------------
+ID: 141
+Name: MQ-9 Reaper Mk4 Mod2
+Type: Drones
+Country: UK
+Range (km): 1218
+Introduced: 1991
+Description: MQ-9 Reaper Mk4 Mod2 is a drones developed by UK and introduced in 1991. It has an operational range
+of approximately 1218 km.
+--------------------------------------------------
+ID: 142
+Name: Leopard 2 Mk1 Mod6
+Type: Tanks
+Country: India
+Range (km): 1458
+Introduced: 1963
+Description: Leopard 2 Mk1 Mod6 is a tanks developed by India and introduced in 1963. It has an operational range of
+approximately 1458 km.
+--------------------------------------------------
+ID: 143
+Name: UH-60 Black Hawk Mk1 Mod8
+Type: Helicopters
+Country: China
+Range (km): 1433
+Introduced: 1994
+Description: UH-60 Black Hawk Mk1 Mod8 is a helicopters developed by China and introduced in 1994. It has an
+operational range of approximately 1433 km.
+--------------------------------------------------
+ID: 144
+Name: Su-57 Mk5 Mod9
+Type: Jets
+Country: USA
+Range (km): 3152
+Introduced: 1986
+Description: Su-57 Mk5 Mod9 is a jets developed by USA and introduced in 1986. It has an operational range of
+approximately 3152 km.
+--------------------------------------------------
+ID: 145
+Name: Su-57 Mk4 Mod8
+Type: Jets
+Country: Israel
+Range (km): 3677
+Introduced: 1999
+Description: Su-57 Mk4 Mod8 is a jets developed by Israel and introduced in 1999. It has an operational range of
+approximately 3677 km.
+--------------------------------------------------
+ID: 146
+Name: Beretta M9 Mk2 Mod1
+Type: Guns
+Country: France
+Range (km): 1122
+Introduced: 2009
+Description: Beretta M9 Mk2 Mod1 is a guns developed by France and introduced in 2009. It has an operational range
+of approximately 1122 km.
+--------------------------------------------------
+ID: 147
+Name: Tomahawk Mk5 Mod8
+Type: Missiles
+Country: India
+Range (km): 32
+Introduced: 1996
+Description: Tomahawk Mk5 Mod8 is a missiles developed by India and introduced in 1996. It has an operational range
+of approximately 32 km.
+--------------------------------------------------
+ID: 148
+Name: Leopard 2 Mk1 Mod5
+Type: Tanks
+Country: India
+Range (km): 964
+Introduced: 1966
+Description: Leopard 2 Mk1 Mod5 is a tanks developed by India and introduced in 1966. It has an operational range of
+approximately 964 km.
+--------------------------------------------------
+ID: 149
+Name: Heron Mk1 Mod7
+Type: Drones
+Country: Germany
+Range (km): 13
+Introduced: 1999
+Description: Heron Mk1 Mod7 is a drones developed by Germany and introduced in 1999. It has an operational range of
+approximately 13 km.
+--------------------------------------------------
+ID: 150
+Name: BrahMos Mk4 Mod0
+Type: Missiles
+Country: Israel
+Range (km): 1456
+Introduced: 1984
+Description: BrahMos Mk4 Mod0 is a missiles developed by Israel and introduced in 1984. It has an operational range of
+approximately 1456 km.
+--------------------------------------------------
+ID: 151
+Name: FAMAS Mk3 Mod5
+Type: Rifles
+Country: Sweden
+Range (km): 899
+Introduced: 1993
+Description: FAMAS Mk3 Mod5 is a rifles developed by Sweden and introduced in 1993. It has an operational range of
+approximately 899 km.
+--------------------------------------------------
+ID: 152
+Name: AK-47 Mk3 Mod0
+Type: Rifles
+Country: Germany
+Range (km): 1197
+Introduced: 1996
+Description: AK-47 Mk3 Mod0 is a rifles developed by Germany and introduced in 1996. It has an operational range of
+approximately 1197 km.
+--------------------------------------------------
+ID: 153
+Name: Challenger 2 Mk1 Mod7
+Type: Tanks
+Country: China
+Range (km): 207
+Introduced: 2006
+Description: Challenger 2 Mk1 Mod7 is a tanks developed by China and introduced in 2006. It has an operational range
+of approximately 207 km.
+--------------------------------------------------
+ID: 154
+Name: Tomahawk Mk3 Mod6
+Type: Missiles
+Country: France
+Range (km): 1405
+Introduced: 1986
+Description: Tomahawk Mk3 Mod6 is a missiles developed by France and introduced in 1986. It has an operational
+range of approximately 1405 km.
+--------------------------------------------------
+ID: 155
+Name: Su-57 Mk5 Mod6
+Type: Jets
+Country: India
+Range (km): 2749
+Introduced: 1962
+Description: Su-57 Mk5 Mod6 is a jets developed by India and introduced in 1962. It has an operational range of
+approximately 2749 km.
+--------------------------------------------------
+ID: 156
+Name: Ka-52 Mk3 Mod0
+Type: Helicopters
+Country: Sweden
+Range (km): 421
+Introduced: 2007
+Description: Ka-52 Mk3 Mod0 is a helicopters developed by Sweden and introduced in 2007. It has an operational range
+of approximately 421 km.
+--------------------------------------------------
+ID: 157
+Name: T-90 Mk2 Mod5
+Type: Tanks
+Country: China
+Range (km): 26
+Introduced: 2023
+Description: T-90 Mk2 Mod5 is a tanks developed by China and introduced in 2023. It has an operational range of
+approximately 26 km.
+--------------------------------------------------
+ID: 158
+Name: Wing Loong Mk3 Mod8
+Type: Drones
+Country: Turkey
+Range (km): 94
+Introduced: 1974
+Description: Wing Loong Mk3 Mod8 is a drones developed by Turkey and introduced in 1974. It has an operational
+range of approximately 94 km.
+--------------------------------------------------
+ID: 159
+Name: FAMAS Mk2 Mod9
+Type: Rifles
+Country: Turkey
+Range (km): 943
+Introduced: 2006
+Description: FAMAS Mk2 Mod9 is a rifles developed by Turkey and introduced in 2006. It has an operational range of
+approximately 943 km.
+--------------------------------------------------
+ID: 160
+Name: JAS 39 Gripen Mk5 Mod8
+Type: Jets
+Country: India
+Range (km): 3810
+Introduced: 1995
+Description: JAS 39 Gripen Mk5 Mod8 is a jets developed by India and introduced in 1995. It has an operational range
+of approximately 3810 km.
+--------------------------------------------------
+ID: 161
+Name: Su-57 Mk5 Mod8
+Type: Jets
+Country: Turkey
+Range (km): 4756
+Introduced: 1990
+Description: Su-57 Mk5 Mod8 is a jets developed by Turkey and introduced in 1990. It has an operational range of
+approximately 4756 km.
+--------------------------------------------------
+ID: 162
+Name: Hellfire Mk5 Mod5
+Type: Missiles
+Country: UK
+Range (km): 1169
+Introduced: 1980
+Description: Hellfire Mk5 Mod5 is a missiles developed by UK and introduced in 1980. It has an operational range of
+approximately 1169 km.
+--------------------------------------------------
+ID: 163
+Name: Hellfire Mk2 Mod6
+Type: Missiles
+Country: France
+Range (km): 267
+Introduced: 1973
+Description: Hellfire Mk2 Mod6 is a missiles developed by France and introduced in 1973. It has an operational range of
+approximately 267 km.
+--------------------------------------------------
+ID: 164
+Name: T-90 Mk5 Mod1
+Type: Tanks
+Country: China
+Range (km): 55
+Introduced: 1972
+Description: T-90 Mk5 Mod1 is a tanks developed by China and introduced in 1972. It has an operational range of
+approximately 55 km.
+--------------------------------------------------
+ID: 165
+Name: JAS 39 Gripen Mk5 Mod9
+Type: Jets
+Country: USA
+Range (km): 3570
+Introduced: 2014
+Description: JAS 39 Gripen Mk5 Mod9 is a jets developed by USA and introduced in 2014. It has an operational range of
+approximately 3570 km.
+--------------------------------------------------
+ID: 166
+Name: Wing Loong Mk4 Mod0
+Type: Drones
+Country: Germany
+Range (km): 150
+Introduced: 2005
+Description: Wing Loong Mk4 Mod0 is a drones developed by Germany and introduced in 2005. It has an operational
+range of approximately 150 km.
+--------------------------------------------------
+ID: 167
+Name: Mi-24 Mk5 Mod1
+Type: Helicopters
+Country: UK
+Range (km): 1299
+Introduced: 1992
+Description: Mi-24 Mk5 Mod1 is a helicopters developed by UK and introduced in 1992. It has an operational range of
+approximately 1299 km.
+--------------------------------------------------
+ID: 168
+Name: AH-64 Apache Mk1 Mod7
+Type: Helicopters
+Country: Germany
+Range (km): 557
+Introduced: 1980
+Description: AH-64 Apache Mk1 Mod7 is a helicopters developed by Germany and introduced in 1980. It has an
+operational range of approximately 557 km.
+--------------------------------------------------
+ID: 169
+Name: M1 Abrams Mk3 Mod2
+Type: Tanks
+Country: Germany
+Range (km): 146
+Introduced: 1976
+Description: M1 Abrams Mk3 Mod2 is a tanks developed by Germany and introduced in 1976. It has an operational
+range of approximately 146 km.
+--------------------------------------------------
+ID: 170
+Name: Heron Mk4 Mod7
+Type: Drones
+Country: China
+Range (km): 250
+Introduced: 1974
+Description: Heron Mk4 Mod7 is a drones developed by China and introduced in 1974. It has an operational range of
+approximately 250 km.
+--------------------------------------------------
+ID: 171
+Name: Rafale Mk3 Mod2
+Type: Jets
+Country: India
+Range (km): 3362
+Introduced: 1964
+Description: Rafale Mk3 Mod2 is a jets developed by India and introduced in 1964. It has an operational range of
+approximately 3362 km.
+--------------------------------------------------
+ID: 172
+Name: Hellfire Mk1 Mod4
+Type: Missiles
+Country: Israel
+Range (km): 1486
+Introduced: 2000
+Description: Hellfire Mk1 Mod4 is a missiles developed by Israel and introduced in 2000. It has an operational range of
+approximately 1486 km.
+--------------------------------------------------
+ID: 173
+Name: FAMAS Mk2 Mod2
+Type: Rifles
+Country: India
+Range (km): 717
+Introduced: 2010
+Description: FAMAS Mk2 Mod2 is a rifles developed by India and introduced in 2010. It has an operational range of
+approximately 717 km.
+--------------------------------------------------
+ID: 174
+Name: M1 Abrams Mk2 Mod4
+Type: Tanks
+Country: China
+Range (km): 287
+Introduced: 2007
+Description: M1 Abrams Mk2 Mod4 is a tanks developed by China and introduced in 2007. It has an operational range of
+approximately 287 km.
+--------------------------------------------------
+ID: 175
+Name: AK-47 Mk1 Mod2
+Type: Rifles
+Country: China
+Range (km): 415
+Introduced: 1972
+Description: AK-47 Mk1 Mod2 is a rifles developed by China and introduced in 1972. It has an operational range of
+approximately 415 km.
+--------------------------------------------------
+ID: 176
+Name: Bayraktar TB2 Mk1 Mod9
+Type: Drones
+Country: USA
+Range (km): 972
+Introduced: 1963
+Description: Bayraktar TB2 Mk1 Mod9 is a drones developed by USA and introduced in 1963. It has an operational
+range of approximately 972 km.
+--------------------------------------------------
+ID: 177
+Name: Patriot Mk3 Mod3
+Type: Missiles
+Country: China
+Range (km): 610
+Introduced: 2019
+Description: Patriot Mk3 Mod3 is a missiles developed by China and introduced in 2019. It has an operational range of
+approximately 610 km.
+--------------------------------------------------
+ID: 178
+Name: BrahMos Mk5 Mod6
+Type: Missiles
+Country: Turkey
+Range (km): 691
+Introduced: 1960
+Description: BrahMos Mk5 Mod6 is a missiles developed by Turkey and introduced in 1960. It has an operational range
+of approximately 691 km.
+--------------------------------------------------
+ID: 179
+Name: F-22 Raptor Mk4 Mod4
+Type: Jets
+Country: India
+Range (km): 3406
+Introduced: 1965
+Description: F-22 Raptor Mk4 Mod4 is a jets developed by India and introduced in 1965. It has an operational range of
+approximately 3406 km.
+--------------------------------------------------
+ID: 180
+Name: Heron Mk2 Mod0
+Type: Drones
+Country: Germany
+Range (km): 1475
+Introduced: 2009
+Description: Heron Mk2 Mod0 is a drones developed by Germany and introduced in 2009. It has an operational range of
+approximately 1475 km.
+--------------------------------------------------
+ID: 181
+Name: Mi-24 Mk1 Mod8
+Type: Helicopters
+Country: Germany
+Range (km): 664
+Introduced: 1993
+Description: Mi-24 Mk1 Mod8 is a helicopters developed by Germany and introduced in 1993. It has an operational
+range of approximately 664 km.
+--------------------------------------------------
+ID: 182
+Name: Patriot Mk2 Mod0
+Type: Missiles
+Country: UK
+Range (km): 1282
+Introduced: 2019
+Description: Patriot Mk2 Mod0 is a missiles developed by UK and introduced in 2019. It has an operational range of
+approximately 1282 km.
+--------------------------------------------------
+ID: 183
+Name: Hellfire Mk2 Mod4
+Type: Missiles
+Country: Germany
+Range (km): 170
+Introduced: 1963
+Description: Hellfire Mk2 Mod4 is a missiles developed by Germany and introduced in 1963. It has an operational range
+of approximately 170 km.
+--------------------------------------------------
+ID: 184
+Name: M1911 Mk5 Mod9
+Type: Guns
+Country: UK
+Range (km): 299
+Introduced: 2002
+Description: M1911 Mk5 Mod9 is a guns developed by UK and introduced in 2002. It has an operational range of
+approximately 299 km.
+--------------------------------------------------
+ID: 185
+Name: Steyr AUG Mk3 Mod8
+Type: Rifles
+Country: USA
+Range (km): 965
+Introduced: 1974
+Description: Steyr AUG Mk3 Mod8 is a rifles developed by USA and introduced in 1974. It has an operational range of
+approximately 965 km.
+--------------------------------------------------
+ID: 186
+Name: M1 Abrams Mk1 Mod2
+Type: Tanks
+Country: India
+Range (km): 542
+Introduced: 1970
+Description: M1 Abrams Mk1 Mod2 is a tanks developed by India and introduced in 1970. It has an operational range of
+approximately 542 km.
+--------------------------------------------------
+ID: 187
+Name: Leopard 2 Mk1 Mod2
+Type: Tanks
+Country: Turkey
+Range (km): 449
+Introduced: 2011
+Description: Leopard 2 Mk1 Mod2 is a tanks developed by Turkey and introduced in 2011. It has an operational range of
+approximately 449 km.
+--------------------------------------------------
+ID: 188
+Name: T-90 Mk3 Mod8
+Type: Tanks
+Country: Germany
+Range (km): 596
+Introduced: 1984
+Description: T-90 Mk3 Mod8 is a tanks developed by Germany and introduced in 1984. It has an operational range of
+approximately 596 km.
+--------------------------------------------------
+ID: 189
+Name: Glock 17 Mk3 Mod5
+Type: Guns
+Country: Germany
+Range (km): 304
+Introduced: 1970
+Description: Glock 17 Mk3 Mod5 is a guns developed by Germany and introduced in 1970. It has an operational range
+of approximately 304 km.
+--------------------------------------------------
+ID: 190
+Name: Rafale Mk4 Mod7
+Type: Jets
+Country: China
+Range (km): 4093
+Introduced: 2014
+Description: Rafale Mk4 Mod7 is a jets developed by China and introduced in 2014. It has an operational range of
+approximately 4093 km.
+--------------------------------------------------
+ID: 191
+Name: M1 Abrams Mk4 Mod9
+Type: Tanks
+Country: Germany
+Range (km): 1258
+Introduced: 1987
+Description: M1 Abrams Mk4 Mod9 is a tanks developed by Germany and introduced in 1987. It has an operational
+range of approximately 1258 km.
+--------------------------------------------------
+ID: 192
+Name: Hellfire Mk3 Mod0
+Type: Missiles
+Country: Sweden
+Range (km): 126
+Introduced: 1972
+Description: Hellfire Mk3 Mod0 is a missiles developed by Sweden and introduced in 1972. It has an operational range
+of approximately 126 km.
+--------------------------------------------------
+ID: 193
+Name: Wing Loong Mk3 Mod5
+Type: Drones
+Country: Sweden
+Range (km): 1274
+Introduced: 1990
+Description: Wing Loong Mk3 Mod5 is a drones developed by Sweden and introduced in 1990. It has an operational
+range of approximately 1274 km.
+--------------------------------------------------
+ID: 194
+Name: T-90 Mk5 Mod6
+Type: Tanks
+Country: France
+Range (km): 74
+Introduced: 1989
+Description: T-90 Mk5 Mod6 is a tanks developed by France and introduced in 1989. It has an operational range of
+approximately 74 km.
+--------------------------------------------------
+ID: 195
+Name: FAMAS Mk5 Mod5
+Type: Rifles
+Country: Germany
+Range (km): 214
+Introduced: 2017
+Description: FAMAS Mk5 Mod5 is a rifles developed by Germany and introduced in 2017. It has an operational range of
+approximately 214 km.
+--------------------------------------------------
+ID: 196
+Name: F-22 Raptor Mk3 Mod5
+Type: Jets
+Country: USA
+Range (km): 2688
+Introduced: 1996
+Description: F-22 Raptor Mk3 Mod5 is a jets developed by USA and introduced in 1996. It has an operational range of
+approximately 2688 km.
+--------------------------------------------------
+ID: 197
+Name: Ka-52 Mk3 Mod9
+Type: Helicopters
+Country: India
+Range (km): 661
+Introduced: 1990
+Description: Ka-52 Mk3 Mod9 is a helicopters developed by India and introduced in 1990. It has an operational range of
+approximately 661 km.
+--------------------------------------------------
+ID: 198
+Name: Steyr AUG Mk1 Mod1
+Type: Rifles
+Country: Sweden
+Range (km): 368
+Introduced: 2006
+Description: Steyr AUG Mk1 Mod1 is a rifles developed by Sweden and introduced in 2006. It has an operational range
+of approximately 368 km.
+--------------------------------------------------
+ID: 199
+Name: Beretta M9 Mk2 Mod1
+Type: Guns
+Country: China
+Range (km): 807
+Introduced: 2018
+Description: Beretta M9 Mk2 Mod1 is a guns developed by China and introduced in 2018. It has an operational range of
+approximately 807 km.
+--------------------------------------------------
+ID: 200
+Name: AK-47 Mk5 Mod8
+Type: Rifles
+Country: Russia
+Range (km): 888
+Introduced: 1975
+Description: AK-47 Mk5 Mod8 is a rifles developed by Russia and introduced in 1975. It has an operational range of
+approximately 888 km.
+--------------------------------------------------
+ID: 201
+Name: Ka-52 Mk4 Mod5
+Type: Helicopters
+Country: Israel
+Range (km): 131
+Introduced: 1970
+Description: Ka-52 Mk4 Mod5 is a helicopters developed by Israel and introduced in 1970. It has an operational range of
+approximately 131 km.
+--------------------------------------------------
+ID: 202
+Name: Tomahawk Mk3 Mod5
+Type: Missiles
+Country: Germany
+Range (km): 1460
+Introduced: 1963
+Description: Tomahawk Mk3 Mod5 is a missiles developed by Germany and introduced in 1963. It has an operational
+range of approximately 1460 km.
+--------------------------------------------------
+ID: 203
+Name: Ka-52 Mk4 Mod0
+Type: Helicopters
+Country: UK
+Range (km): 1098
+Introduced: 1989
+Description: Ka-52 Mk4 Mod0 is a helicopters developed by UK and introduced in 1989. It has an operational range of
+approximately 1098 km.
+--------------------------------------------------
+ID: 204
+Name: Hellfire Mk4 Mod3
+Type: Missiles
+Country: Turkey
+Range (km): 388
+Introduced: 2011
+Description: Hellfire Mk4 Mod3 is a missiles developed by Turkey and introduced in 2011. It has an operational range of
+approximately 388 km.
+--------------------------------------------------
+ID: 205
+Name: T-90 Mk5 Mod4
+Type: Tanks
+Country: UK
+Range (km): 763
+Introduced: 1987
+Description: T-90 Mk5 Mod4 is a tanks developed by UK and introduced in 1987. It has an operational range of
+approximately 763 km.
+--------------------------------------------------
+ID: 206
+Name: T-90 Mk2 Mod5
+Type: Tanks
+Country: Sweden
+Range (km): 710
+Introduced: 1978
+Description: T-90 Mk2 Mod5 is a tanks developed by Sweden and introduced in 1978. It has an operational range of
+approximately 710 km.
+--------------------------------------------------
+ID: 207
+Name: AH-64 Apache Mk1 Mod3
+Type: Helicopters
+Country: Israel
+Range (km): 764
+Introduced: 2017
+Description: AH-64 Apache Mk1 Mod3 is a helicopters developed by Israel and introduced in 2017. It has an operational
+range of approximately 764 km.
+--------------------------------------------------
+ID: 208
+Name: Beretta M9 Mk4 Mod8
+Type: Guns
+Country: Israel
+Range (km): 707
+Introduced: 2019
+Description: Beretta M9 Mk4 Mod8 is a guns developed by Israel and introduced in 2019. It has an operational range of
+approximately 707 km.
+--------------------------------------------------
+ID: 209
+Name: T-90 Mk4 Mod6
+Type: Tanks
+Country: India
+Range (km): 434
+Introduced: 1987
+Description: T-90 Mk4 Mod6 is a tanks developed by India and introduced in 1987. It has an operational range of
+approximately 434 km.
+--------------------------------------------------
+ID: 210
+Name: Heron Mk3 Mod3
+Type: Drones
+Country: Russia
+Range (km): 1231
+Introduced: 2001
+Description: Heron Mk3 Mod3 is a drones developed by Russia and introduced in 2001. It has an operational range of
+approximately 1231 km.
+--------------------------------------------------
