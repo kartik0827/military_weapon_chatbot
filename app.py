@@ -74,7 +74,6 @@ interface = gr.ChatInterface(
         "List types of military drones"
     ],
     chatbot=gr.Chatbot(label="🪖 Military Weapon Chatbot", type='messages'),
-    theme="dark"
 )
 
 interface.launch(share=True)
