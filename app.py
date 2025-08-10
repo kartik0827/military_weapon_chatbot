@@ -42,12 +42,18 @@ from langchain.chains import RetrievalQA
 prompt_template = PromptTemplate(
     input_variables=["context", "question"],
     template="""
-    You are a military expert chatbot. Use the following context to answer the user's question briefly and accurately. 
-If the context doesn't fully help, use your own knowledge to complete the answer. Don't say "Based on the provided context" or anything like that.
-    Context: {context}
-    Question: {question}
-    brief Answer:"""
+You are a military expert chatbot.
+Never mention context, documents, provided lists, datasets, or whether information is missing.
+Always give a direct factual answer, even if you have to rely on your own knowledge.
+If the information below helps, use it silently. If it doesn't, ignore it and answer from your own knowledge.
+Information:
+{context}
+Question:
+{question}
+Direct Answer:
+"""
 )
+
 
 # Build the QA chain
 qa_chain = RetrievalQA.from_chain_type(
@@ -58,10 +64,59 @@ qa_chain = RetrievalQA.from_chain_type(
 #    return_source_documents=False
 )
 
+# Clean and remove vague or unnecessary intro phrases from the final response
+def clean_response(text):
+    # Lowercase copy for matching
+    lower_text = text.lower()
+
+    # Patterns that indicate weak intro phrases to be removed
+    bad_starts = [
+        "i'm not aware of", 
+        "there is no information", 
+        "i could not find", 
+        "it's not mentioned", 
+        "unfortunately", 
+        "however", 
+        "i can inform you that", 
+        "i'm sorry",
+        "not mentioned in the provided information"
+    ]
+
+    # Remove these phrases if they appear at the start or early in the response
+    for phrase in bad_starts:
+        if lower_text.startswith(phrase) or lower_text.startswith(" " + phrase):
+            text = text[text.find(".") + 1:].strip()
+            break
+
+    # Also clean specific fallback phrases
+    phrases_to_remove = [
+        "mentioned in the provided list", "mentioned in the context", "based on the provided context",
+        "in the provided context", "from the context", "according to the context",
+        "the context does not mention", "however, I can tell you that", "unfortunately",
+        "not mentioned in the provided list", "not listed in the provided context", "not mentioned in the provided information"
+    ]
+    for phrase in phrases_to_remove:
+        text = text.replace(phrase, "").strip()
+
+    return text
+
+
 # Chat function
+#def chat_with_bot(message, chat_history):
+ #   response = qa_chain.run(message)
+  #  return response
+from langchain_core.exceptions import OutputParserException
+
 def chat_with_bot(message, chat_history):
-    response = qa_chain.run(message)
-    return response
+    try:
+        response = qa_chain.run(message)
+        # If response is empty or too generic, fallback to LLM only
+        if not response or "I don't know" in response:
+            response = llm.invoke(message)
+    except OutputParserException:
+        response = llm.invoke(message)
+    return clean_response(response)
+
 
 # Gradio interface
 interface = gr.ChatInterface(
@@ -77,7 +132,3 @@ interface = gr.ChatInterface(
 )
 
 interface.launch(share=True)
-
-
-
-
